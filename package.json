@@ -1,0 +1,20 @@
+{
+  "name": "zarnam_quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zarnam Izhar",
+  "license": "ISC",
+  "description": "It is a quiz of mycology that i created",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
